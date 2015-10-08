@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2013\Projects\TestCalc4\TestCalc4\bin\Debug\TestCalc4.exe.config
+c:\users\student\documents\visual studio 2013\Projects\TestCalc4\TestCalc4\obj\Debug\TestCalc4.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\TestCalc4\TestCalc4\bin\Debug\TestCalc4.exe
+c:\users\student\documents\visual studio 2013\Projects\TestCalc4\TestCalc4\bin\Debug\TestCalc4.pdb
+c:\users\student\documents\visual studio 2013\Projects\TestCalc4\TestCalc4\obj\Debug\TestCalc4.exe
+c:\users\student\documents\visual studio 2013\Projects\TestCalc4\TestCalc4\obj\Debug\TestCalc4.pdb
